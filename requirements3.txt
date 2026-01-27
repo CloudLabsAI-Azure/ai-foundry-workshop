@@ -1,0 +1,10 @@
+#additional required packages
+azure-ai-ml
+semantic-kernel[azure]==1.28.0
+autogen
+autogen-agentchat
+autogen-ext[openai]
+autogen-core
+nest_asyncio
+opentelemetry-instrumentation-openai-v2
+opentelemetry-instrumentation-langchain
