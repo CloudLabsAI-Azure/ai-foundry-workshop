@@ -5,3 +5,4 @@ azure-ai-inference[opentelemetry]             # Azure AI inference with OpenTele
 azure-ai-evaluation                           # Azure AI model evaluation tools
 azure-ai-contentsafety                        # Azure content safety services
 azure-search-documents                        # Azure AI Search integration
+openai                                        # OpenAI Python API library
